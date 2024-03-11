@@ -4,6 +4,8 @@ description: https://app.hackthebox.com/machines/Builder
 
 # Builder
 
+Builder was a medium machine focused on Jenkins vulnerability.
+
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Builder - Medium box</p></figcaption></figure>
 
 ## Ports scan
