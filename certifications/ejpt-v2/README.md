@@ -1,0 +1,25 @@
+---
+description: These are just my notes i took during EJPT v2.  (more like  a cheatsheet)
+---
+
+# EJPT v2
+
+## HELLLLLLLLLO
+
+> Welcome to the course xD
+
+I hope these notes & my other writeups help you :)&#x20;
+
+Well these are my personal notes/backup so it's not much organised/detailed. &#x20;
+
+```
+this section of ejpt is more like a cheatsheet than notes.
+```
+
+
+
+
+
+## Certified :))
+
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Although it's not very hard to OSINT me, I still like to hide my name :) </p></figcaption></figure>
