@@ -40,6 +40,7 @@
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
     * [Format - incomplete](rooms/hackthebox/medium/format-incomplete.md)
 * [Tryhackme](rooms/tryhackme/README.md)
+  * [WhyHackMe](rooms/tryhackme/whyhackme.md)
   * [Bad Byte](rooms/tryhackme/bad-byte.md)
   * [Wonderland](rooms/tryhackme/wonderland.md)
   * [Overpass](rooms/tryhackme/overpass.md)
