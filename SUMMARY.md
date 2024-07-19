@@ -18,14 +18,14 @@
     * [Misc - Never found](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/misc-never-found.md)
     * [VM - boot2root](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/vm-boot2root.md)
     * [Reversing - Easy](ctf-writeups/2023-ctfs/yctf-week-2-9-dec-23/reversing-easy.md)
-* [2024](ctf-writeups/2024/README.md)
-  * [Down Under CTF](ctf-writeups/2024/down-under-ctf/README.md)
-    * [Beginner](ctf-writeups/2024/down-under-ctf/beginner/README.md)
-      * [tldr please summarise](ctf-writeups/2024/down-under-ctf/beginner/tldr-please-summarise.md)
-      * [parrot the emu](ctf-writeups/2024/down-under-ctf/beginner/parrot-the-emu.md)
-      * [Sun Zi's Perfect Math Class](ctf-writeups/2024/down-under-ctf/beginner/sun-zis-perfect-math-class.md)
-      * [zoo feedback form](ctf-writeups/2024/down-under-ctf/beginner/zoo-feedback-form.md)
-      * [shufflebox](ctf-writeups/2024/down-under-ctf/beginner/shufflebox.md)
+* [2024 CTFs](ctf-writeups/2024-ctfs/README.md)
+  * [Down Under CTF](ctf-writeups/2024-ctfs/down-under-ctf/README.md)
+    * [Beginner](ctf-writeups/2024-ctfs/down-under-ctf/beginner/README.md)
+      * [tldr please summarise](ctf-writeups/2024-ctfs/down-under-ctf/beginner/tldr-please-summarise.md)
+      * [parrot the emu](ctf-writeups/2024-ctfs/down-under-ctf/beginner/parrot-the-emu.md)
+      * [Sun Zi's Perfect Math Class](ctf-writeups/2024-ctfs/down-under-ctf/beginner/sun-zis-perfect-math-class.md)
+      * [zoo feedback form](ctf-writeups/2024-ctfs/down-under-ctf/beginner/zoo-feedback-form.md)
+      * [shufflebox](ctf-writeups/2024-ctfs/down-under-ctf/beginner/shufflebox.md)
 
 ## 📦 Rooms
 
@@ -61,7 +61,11 @@
 
 * [🎑 Overview (fundamentals/cheatsheet)](overview-fundamentals-cheatsheet/README.md)
   * [🪟 Windows](overview-fundamentals-cheatsheet/windows.md)
-* [🖥️ Active Directory](active-directory.md)
+
+## Active Directory
+
+* [🖥️ what is? General info](active-directory/what-is-general-info.md)
+* [LLMNR poisoning](active-directory/llmnr-poisoning.md)
 
 ## 🏆 Certifications
 

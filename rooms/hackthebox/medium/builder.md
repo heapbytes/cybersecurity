@@ -260,7 +260,7 @@ jenkins@0f52c222a4cc:~$ cat credentials.xml
 
 Going back to the script console we can run the command provided and get private key
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Root
 
