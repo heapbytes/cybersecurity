@@ -45,6 +45,7 @@
     * [Secret](rooms/hackthebox/easy/secret.md)
     * [Shoppy](rooms/hackthebox/easy/shoppy.md)
   * [Medium](rooms/hackthebox/medium/README.md)
+    * [IClean](rooms/hackthebox/medium/iclean.md)
     * [Builder](rooms/hackthebox/medium/builder.md)
     * [Sandworm](rooms/hackthebox/medium/sandworm.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)

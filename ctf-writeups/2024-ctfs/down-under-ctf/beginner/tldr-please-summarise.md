@@ -17,7 +17,7 @@ Author: Nosurf
 
 When you open word in google docs (or any other app), you'll notice some hidden small text
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Text:&#x20;
 
