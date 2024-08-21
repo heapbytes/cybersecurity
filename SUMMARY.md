@@ -44,6 +44,7 @@
     * [Soccer](rooms/hackthebox/easy/soccer.md)
     * [Secret](rooms/hackthebox/easy/secret.md)
     * [Shoppy](rooms/hackthebox/easy/shoppy.md)
+    * [Cap](rooms/hackthebox/easy/cap.md)
   * [Medium](rooms/hackthebox/medium/README.md)
     * [IClean](rooms/hackthebox/medium/iclean.md)
     * [Builder](rooms/hackthebox/medium/builder.md)
