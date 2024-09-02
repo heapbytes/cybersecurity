@@ -1,5 +1,5 @@
 ---
-description: https://github.com/heapbytes/notes-cybersecurity
+description: https://github.com/heapbytes/
 ---
 
 # 👋 About me.
