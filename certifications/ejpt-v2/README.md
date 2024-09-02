@@ -22,4 +22,4 @@ this section of ejpt is more like a cheatsheet than notes.
 
 ## Certified :))
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption><p>Although it's not very hard to OSINT me, I still like to hide my name :) </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -1,6 +1,6 @@
 # Skyfall
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Reconnaissance
 
@@ -501,7 +501,7 @@ server, err := fuse.NewServer(conn.RawFS(), mountPoint, &fuse.MountOptions{
 //if we dont add it, our exploit wont work because by default that feature is off everywhere
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;And done....... we now have admin token.
 
