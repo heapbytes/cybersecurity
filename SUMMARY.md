@@ -71,6 +71,7 @@
 
 * [🖥️ what is? General info](active-directory/what-is-general-info.md)
 * [LLMNR poisoning](active-directory/llmnr-poisoning.md)
+* [Attack list for pentest](active-directory/attack-list-for-pentest.md)
 
 ## 🏆 Certifications
 
