@@ -33,6 +33,7 @@
   * [Web challenges](rooms/hackthebox/web-challenges/README.md)
     * [CurlAsAService](rooms/hackthebox/web-challenges/curlasaservice.md)
   * [Easy](rooms/hackthebox/easy/README.md)
+    * [Boardlight](rooms/hackthebox/easy/boardlight.md)
     * [Headless](rooms/hackthebox/easy/headless.md)
     * [Bizness](rooms/hackthebox/easy/bizness.md)
     * [Devvortex](rooms/hackthebox/easy/devvortex.md)

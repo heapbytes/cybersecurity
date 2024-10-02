@@ -1,6 +1,6 @@
 # Skyfall
 
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 ## Reconnaissance
 
@@ -45,12 +45,12 @@ You can `Ctrl+u` to view the web page source code and see we have 2 sub-domains.
 
 * We were able to login with default creds given: `guest:guest`
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 I tried for LFI with remaining filename, or upload .php and trying to access it from somewhere.\
 Although I didn't find anything, we can further move on for other approach.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 The only interesting thing was this 403, WHY?\
 Well if we try to access `/beta` the flask app restricts us, but for `/metrics` nginx doesn't allow us to go forward, so that means....there's a website which flask can serve us if we bypass nginx 403.
@@ -59,19 +59,19 @@ Googling `Nginx 403 bypass hacktricks` gives us this beautiful resource
 
 {% embed url="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/nginx&ved=2ahUKEwiqqYWeh6KIAxV1R2wGHUxOO1QQFnoECB4QAQ&usg=AOvVaw2797Atc7v12zK2A5m5UDiU" %}
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 Third title worked for me, **Unsafe path restriction** which leads us to the following page
 
 {% embed url="https://book.hacktricks.xyz/pentesting-web/proxy-waf-protections-bypass" %}
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
 
 Our nginx version is `nginx/1.18.0 (Ubuntu)`
 
 We will add `0c` in our request&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 And VoiLA!!, we got in.\
 
@@ -299,7 +299,7 @@ Hmm interesting........
 > 
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 It's a hashicorp token, what's the token for? (Answer straight from google)
 
@@ -501,7 +501,7 @@ server, err := fuse.NewServer(conn.RawFS(), mountPoint, &fuse.MountOptions{
 //if we dont add it, our exploit wont work because by default that feature is off everywhere
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;And done....... we now have admin token.
 

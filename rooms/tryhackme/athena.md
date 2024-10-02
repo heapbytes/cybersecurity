@@ -125,7 +125,7 @@ Intern
 
 ## Post Enumeration
 
-<img src="../../.gitbook/assets/image (27).png" alt="ping website" data-size="original"> Website
+<img src="../../.gitbook/assets/image (43).png" alt="ping website" data-size="original"> Website
 
 
 

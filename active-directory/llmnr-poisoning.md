@@ -4,7 +4,7 @@
 
 It's kinda like Man In the middle attack, where an attacker can get hash of a user.
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>credit - TCM Security</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>credit - TCM Security</p></figcaption></figure>
 
 ### Tools to attack/exploit:
 

@@ -4,7 +4,7 @@ description: https://app.hackthebox.com/machines/Broker
 
 # Broker
 
-<figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ## Nmap scan
 

@@ -13,7 +13,7 @@ soln
 
 * the 4th link under `/assets/404` had the flag
 
-<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
 
 ## Flag : YCTF{n3v4r\_mi55\_f0ur\_o\_f0u4}
 

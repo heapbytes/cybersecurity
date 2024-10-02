@@ -4,7 +4,7 @@ description: http://139.59.45.27:8090/admin/flag.tar.gz
 
 # Confluence
 
-<figure><img src="../../../../.gitbook/assets/image (35).png" alt=""><figcaption><p>Chall des &#x26; points</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (51).png" alt=""><figcaption><p>Chall des &#x26; points</p></figcaption></figure>
 
 
 

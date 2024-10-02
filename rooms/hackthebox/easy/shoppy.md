@@ -1,6 +1,6 @@
 # Shoppy
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption><p>nice box tbh</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (66).png" alt=""><figcaption><p>nice box tbh</p></figcaption></figure>
 
 
 
@@ -59,7 +59,7 @@ ffuf -u http://shoppy.htb -H "Host: FUZZ.shoppy.htb" \
 * Mattermost index page had login page, tried sqli, didnt' work.
 * Tried nosqli paylaod, worked!!
 
-<figure><img src="../../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
 * payload :&#x20;
 
@@ -79,7 +79,7 @@ ffuf -u http://shoppy.htb -H "Host: FUZZ.shoppy.htb" \
 * After getting admin, we can see a feature called `search-users`
 * i tried with same payload eariler, and it worked ( `admin' || 'a'=='a` )
 
-<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
 * the admin has wasn't crackable
 * password for josh was `remembermethisway`
@@ -93,7 +93,7 @@ ffuf -u http://shoppy.htb -H "Host: FUZZ.shoppy.htb" \
 
 ## User shell (jaeger)
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption><p>Sh0ppyBest@pp!</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption><p>Sh0ppyBest@pp!</p></figcaption></figure>
 
 ### Decompilng Binary&#x20;
 

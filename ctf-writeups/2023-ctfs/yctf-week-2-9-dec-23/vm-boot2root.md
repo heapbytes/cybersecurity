@@ -6,7 +6,7 @@ description: https://tryhackme.com/room/yctfweek2Mv
 
 i had first blood for this machine ([🩸](https://emojipedia.org/drop-of-blood))
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 ## Port scan
 

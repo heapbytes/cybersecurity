@@ -4,7 +4,7 @@ description: Level - Medium
 
 # Format - incomplete
 
-![](<../../../.gitbook/assets/image (20).png>)
+![](<../../../.gitbook/assets/image (36).png>)
 
 
 
@@ -41,11 +41,11 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 
 
 
-<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption><p>It redirects us to the git url (port 3000) of this app</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption><p>It redirects us to the git url (port 3000) of this app</p></figcaption></figure>
 
 
 
-<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
 * we now have the src code of the website, let's clone & analyse this.
 
@@ -94,13 +94,13 @@ microblog
 
 * After registering we now can create subdomains.
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 Let's add this in our `/etc/hosts` file
 
 #### Create a blog
 
-<figure><img src="../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 * after visiting your subdomain, you can now see the blog content.
 
@@ -131,7 +131,7 @@ if (isset($_POST['txt']) && isset($_POST['id'])) {
 
 
 
-<figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption><p>YEHP it works!!!!</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption><p>YEHP it works!!!!</p></figcaption></figure>
 
 * I surfed for a while & found no important files that can help us to get a rev shell on the machine.
 * While reviweing the src code of `edit/index.php` , i saw there's something called `pro feature`

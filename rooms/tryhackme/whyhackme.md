@@ -90,7 +90,7 @@ After reading that we can clearly see a hint of SSRF.&#x20;
 
 After you read the blog, you can see it wants you to login first to comment down on the blog.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 ## Dir scan
 
@@ -107,11 +107,11 @@ Found a register portal.
 
 After registering myself with `test:test` i tried exploiting XSS, CMD injection, SQLi but none worked, maybe username parameter is vulnerable.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 After login, i can now comment on blog
 
-<figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
 Yessss, the username parameter was actually vulnerable to XSS.
 

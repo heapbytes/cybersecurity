@@ -4,7 +4,7 @@ description: Easy machine.
 
 # Sau
 
-<figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
 ## port scan result
 

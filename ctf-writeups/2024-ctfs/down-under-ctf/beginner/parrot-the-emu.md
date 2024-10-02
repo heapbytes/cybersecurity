@@ -15,7 +15,7 @@ https://web-parrot-the-emu-4c2d0c693847.2024.ductf.dev
 
 ### Vuln - SSTI
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 You can google ssti payloads.
 
@@ -33,7 +33,7 @@ https://gchq.github.io/CyberChef/#recipe=From_HTML_Entity()Find_/_Replace(%7B'op
 
 * Hmm the subprocess.popen is at 213 index.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>214 -1 = 213 (0 indexing)</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (11).png" alt=""><figcaption><p>214 -1 = 213 (0 indexing)</p></figcaption></figure>
 
 ### Flag&#x20;
 

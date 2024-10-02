@@ -88,7 +88,7 @@ ________________________________________________
 
 * The intesting domain was `latex`&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Just a page which converts latex to image</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption><p>Just a page which converts latex to image</p></figcaption></figure>
 
 * We'll need to do `latex injection` attack.
 

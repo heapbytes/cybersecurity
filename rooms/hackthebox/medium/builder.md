@@ -6,7 +6,7 @@ description: https://app.hackthebox.com/machines/Builder
 
 Builder was a medium machine focused on Jenkins vulnerability.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Builder - Medium box</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption><p>Builder - Medium box</p></figcaption></figure>
 
 ## Ports scan
 
@@ -42,7 +42,7 @@ Nmap done: 1 IP address (1 host up) scanned in 22.69 seconds
 
 Upon visiting the website, we found Jenkins dashboard and wapalyzer tells us the version.
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 * Vulnerable Jenkins version `2.441`
 
@@ -150,7 +150,7 @@ I could have done like ippsec way : To pull dockerfile and install jenkins and l
 
 * If we looked at `users` part in the blog
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 * the `users.xml` file seem intresting
 
@@ -223,7 +223,7 @@ Session completed
 
 After executing `Java #3` payload, i get the reverse shell
 
-<figure><img src="../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 $> rlwrap nc -nvlp 4444                                                                                                                                                [0]
@@ -260,7 +260,7 @@ jenkins@0f52c222a4cc:~$ cat credentials.xml
 
 Going back to the script console we can run the command provided and get private key
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ## Root
 

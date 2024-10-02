@@ -1,6 +1,6 @@
 # Cap
 
-<figure><img src="../../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -74,7 +74,7 @@ On homepage if we click on Security Snapshot...\
 we are redirected to: [http://10.10.10.245/capture](http://10.10.10.245/capture)
 
 **The redirection sends**: [http://10.10.10.245/data/5](http://10.10.10.245/data/5)\
-![](<../../../.gitbook/assets/image (68).png>)
+![](<../../../.gitbook/assets/image (84).png>)
 
 
 
