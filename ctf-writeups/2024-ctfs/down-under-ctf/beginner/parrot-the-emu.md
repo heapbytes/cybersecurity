@@ -15,7 +15,7 @@ https://web-parrot-the-emu-4c2d0c693847.2024.ductf.dev
 
 ### Vuln - SSTI
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can google ssti payloads.
 

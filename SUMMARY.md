@@ -74,6 +74,14 @@
 * [LLMNR poisoning](active-directory/llmnr-poisoning.md)
 * [Attack list for pentest](active-directory/attack-list-for-pentest.md)
 
+## APK pentesting
+
+* [Tools](apk-pentesting/tools.md)
+* [Pull apk from android](apk-pentesting/pull-apk-from-android.md)
+* [Static analysis](apk-pentesting/static-analysis/README.md)
+  * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
+* [Dynamic Analysis](apk-pentesting/dynamic-analysis.md)
+
 ## 🏆 Certifications
 
 * [EJPT v2](certifications/ejpt-v2/README.md)
