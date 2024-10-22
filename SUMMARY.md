@@ -26,6 +26,11 @@
       * [Sun Zi's Perfect Math Class](ctf-writeups/2024-ctfs/down-under-ctf/beginner/sun-zis-perfect-math-class.md)
       * [zoo feedback form](ctf-writeups/2024-ctfs/down-under-ctf/beginner/zoo-feedback-form.md)
       * [shufflebox](ctf-writeups/2024-ctfs/down-under-ctf/beginner/shufflebox.md)
+  * [HackTheBoo](ctf-writeups/2024-ctfs/hacktheboo/README.md)
+    * [Practice](ctf-writeups/2024-ctfs/hacktheboo/practice/README.md)
+      * [Web - Void Whispers](ctf-writeups/2024-ctfs/hacktheboo/practice/web-void-whispers.md)
+      * [Web - Unholy Union](ctf-writeups/2024-ctfs/hacktheboo/practice/web-unholy-union.md)
+      * [Web - Phantom's Script](ctf-writeups/2024-ctfs/hacktheboo/practice/web-phantoms-script.md)
 
 ## 📦 Rooms
 
