@@ -36,6 +36,7 @@
 
 * [HackTheBox](rooms/hackthebox/README.md)
   * [Web challenges](rooms/hackthebox/web-challenges/README.md)
+    * [Renderquest](rooms/hackthebox/web-challenges/renderquest.md)
     * [CurlAsAService](rooms/hackthebox/web-challenges/curlasaservice.md)
   * [Easy](rooms/hackthebox/easy/README.md)
     * [Boardlight](rooms/hackthebox/easy/boardlight.md)
