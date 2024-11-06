@@ -86,8 +86,12 @@
 * [Tools](apk-pentesting/tools.md)
 * [Pull apk from android](apk-pentesting/pull-apk-from-android.md)
 * [Static analysis](apk-pentesting/static-analysis/README.md)
+  * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
   * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
-* [Dynamic Analysis](apk-pentesting/dynamic-analysis.md)
+  * [Cloud - aws, azure, google](apk-pentesting/static-analysis/cloud-aws-azure-google.md)
+* [Dynamic Analysis](apk-pentesting/dynamic-analysis/README.md)
+  * [Frida](apk-pentesting/dynamic-analysis/frida.md)
+  * [MITM proxy](apk-pentesting/dynamic-analysis/mitm-proxy.md)
 
 ## 🏆 Certifications
 
