@@ -83,8 +83,9 @@
 
 ## APK pentesting
 
-* [Tools](apk-pentesting/tools.md)
-* [Pull apk from android](apk-pentesting/pull-apk-from-android.md)
+* [ADB Cheatsheet](apk-pentesting/adb-cheatsheet.md)
+* [Tools & Get Started](apk-pentesting/tools-and-get-started.md)
+* [Pull & Patch](apk-pentesting/pull-and-patch.md)
 * [Static analysis](apk-pentesting/static-analysis/README.md)
   * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
   * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
