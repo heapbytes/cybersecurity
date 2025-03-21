@@ -31,6 +31,32 @@
       * [Web - Void Whispers](ctf-writeups/2024-ctfs/hacktheboo/practice/web-void-whispers.md)
       * [Web - Unholy Union](ctf-writeups/2024-ctfs/hacktheboo/practice/web-unholy-union.md)
       * [Web - Phantom's Script](ctf-writeups/2024-ctfs/hacktheboo/practice/web-phantoms-script.md)
+* [2025 CTFs](ctf-writeups/2025-ctfs/README.md)
+  * [Pico CTF](ctf-writeups/2025-ctfs/pico-ctf/README.md)
+    * [3v@l](ctf-writeups/2025-ctfs/pico-ctf/3v-l.md)
+    * [WebSockFish](ctf-writeups/2025-ctfs/pico-ctf/websockfish.md)
+    * [SSTI 2](ctf-writeups/2025-ctfs/pico-ctf/ssti-2.md)
+
+## Web Security
+
+* [Eval bypass](web-security/eval-bypass.md)
+
+***
+
+* [SSTI](ssti.md)
+
+## APK pentesting
+
+* [ADB Cheatsheet](apk-pentesting/adb-cheatsheet.md)
+* [Tools & Get Started](apk-pentesting/tools-and-get-started.md)
+* [Pull & Patch](apk-pentesting/pull-and-patch.md)
+* [Static analysis](apk-pentesting/static-analysis/README.md)
+  * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
+  * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
+  * [Cloud - aws, azure, google](apk-pentesting/static-analysis/cloud-aws-azure-google.md)
+* [Dynamic Analysis](apk-pentesting/dynamic-analysis/README.md)
+  * [Frida](apk-pentesting/dynamic-analysis/frida.md)
+  * [MITM proxy](apk-pentesting/dynamic-analysis/mitm-proxy.md)
 
 ## 📦 Rooms
 
@@ -72,29 +98,16 @@
   * [Archangel](rooms/tryhackme/archangel.md)
   * [Hacker Vs Hacker](rooms/tryhackme/hacker-vs-hacker.md)
 
-***
-
-* [🎑 Overview (fundamentals/cheatsheet)](overview-fundamentals-cheatsheet/README.md)
-  * [🪟 Windows](overview-fundamentals-cheatsheet/windows.md)
-
 ## Active Directory
 
 * [🖥️ what is? General info](active-directory/what-is-general-info.md)
 * [LLMNR poisoning](active-directory/llmnr-poisoning.md)
 * [Attack list for pentest](active-directory/attack-list-for-pentest.md)
 
-## APK pentesting
+***
 
-* [ADB Cheatsheet](apk-pentesting/adb-cheatsheet.md)
-* [Tools & Get Started](apk-pentesting/tools-and-get-started.md)
-* [Pull & Patch](apk-pentesting/pull-and-patch.md)
-* [Static analysis](apk-pentesting/static-analysis/README.md)
-  * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
-  * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
-  * [Cloud - aws, azure, google](apk-pentesting/static-analysis/cloud-aws-azure-google.md)
-* [Dynamic Analysis](apk-pentesting/dynamic-analysis/README.md)
-  * [Frida](apk-pentesting/dynamic-analysis/frida.md)
-  * [MITM proxy](apk-pentesting/dynamic-analysis/mitm-proxy.md)
+* [🎑 Overview (fundamentals/cheatsheet)](overview-fundamentals-cheatsheet/README.md)
+  * [🪟 Windows](overview-fundamentals-cheatsheet/windows.md)
 
 ## 🏆 Certifications
 
