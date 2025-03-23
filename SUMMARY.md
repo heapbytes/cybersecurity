@@ -39,6 +39,7 @@
 
 ## Web Security
 
+* [Did you know?](web-security/did-you-know.md)
 * [Eval bypass](web-security/eval-bypass.md)
 
 ***
