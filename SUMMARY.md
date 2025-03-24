@@ -35,29 +35,6 @@
   * [Pico CTF](ctf-writeups/2025-ctfs/pico-ctf/README.md)
     * [3v@l](ctf-writeups/2025-ctfs/pico-ctf/3v-l.md)
     * [WebSockFish](ctf-writeups/2025-ctfs/pico-ctf/websockfish.md)
-    * [SSTI 2](ctf-writeups/2025-ctfs/pico-ctf/ssti-2.md)
-
-## Web Security
-
-* [Did you know?](web-security/did-you-know.md)
-* [Eval bypass](web-security/eval-bypass.md)
-
-***
-
-* [SSTI](ssti.md)
-
-## APK pentesting
-
-* [ADB Cheatsheet](apk-pentesting/adb-cheatsheet.md)
-* [Tools & Get Started](apk-pentesting/tools-and-get-started.md)
-* [Pull & Patch](apk-pentesting/pull-and-patch.md)
-* [Static analysis](apk-pentesting/static-analysis/README.md)
-  * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
-  * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
-  * [Cloud - aws, azure, google](apk-pentesting/static-analysis/cloud-aws-azure-google.md)
-* [Dynamic Analysis](apk-pentesting/dynamic-analysis/README.md)
-  * [Frida](apk-pentesting/dynamic-analysis/frida.md)
-  * [MITM proxy](apk-pentesting/dynamic-analysis/mitm-proxy.md)
 
 ## 📦 Rooms
 
@@ -98,6 +75,25 @@
   * [Athena](rooms/tryhackme/athena.md)
   * [Archangel](rooms/tryhackme/archangel.md)
   * [Hacker Vs Hacker](rooms/tryhackme/hacker-vs-hacker.md)
+
+## APK pentesting
+
+* [ADB Cheatsheet](apk-pentesting/adb-cheatsheet.md)
+* [Tools & Get Started](apk-pentesting/tools-and-get-started.md)
+* [Pull & Patch](apk-pentesting/pull-and-patch.md)
+* [Static analysis](apk-pentesting/static-analysis/README.md)
+  * [Hardcoded strings](apk-pentesting/static-analysis/hardcoded-strings.md)
+  * [Find creds/db/api key](apk-pentesting/static-analysis/find-creds-db-api-key.md)
+  * [Cloud - aws, azure, google](apk-pentesting/static-analysis/cloud-aws-azure-google.md)
+* [Dynamic Analysis](apk-pentesting/dynamic-analysis/README.md)
+  * [Frida](apk-pentesting/dynamic-analysis/frida.md)
+  * [MITM proxy](apk-pentesting/dynamic-analysis/mitm-proxy.md)
+
+## Web Security
+
+* [Omoshiroi :)](web-security/omoshiroi.md)
+* [SSTI](web-security/ssti.md)
+* [Eval bypass](web-security/eval-bypass.md)
 
 ## Active Directory
 

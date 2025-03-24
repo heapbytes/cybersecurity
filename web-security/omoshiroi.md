@@ -1,8 +1,8 @@
 ---
-description: Writing few intresting things I learned. Maybe too basic sometimes :)
+description: Writing few intresting things I liked. Maybe too basic sometimes :)
 ---
 
-# Did you know?
+# Omoshiroi :)
 
 ## 1. LFI vs File disclosure.
 
