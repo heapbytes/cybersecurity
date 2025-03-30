@@ -65,6 +65,8 @@
     * [Sandworm](rooms/hackthebox/medium/sandworm.md)
     * [Shibboleth](rooms/hackthebox/medium/shibboleth.md)
     * [Format - incomplete](rooms/hackthebox/medium/format-incomplete.md)
+  * [Hard](rooms/hackthebox/hard/README.md)
+    * [Caption](rooms/hackthebox/hard/caption.md)
   * [Insane](rooms/hackthebox/insane/README.md)
     * [Skyfall](rooms/hackthebox/insane/skyfall.md)
 * [Tryhackme](rooms/tryhackme/README.md)
