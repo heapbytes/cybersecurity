@@ -99,6 +99,12 @@
 * [SSTI](web-security/ssti.md)
 * [Eval bypass](web-security/eval-bypass.md)
 
+***
+
+* [HTTP Headers](http-headers/README.md)
+  * [Content Security Policy](http-headers/content-security-policy/README.md)
+    * [Lab - Bypass CSP](http-headers/content-security-policy/lab-bypass-csp.md)
+
 ## Active Directory
 
 * [🖥️ what is? General info](active-directory/what-is-general-info.md)
