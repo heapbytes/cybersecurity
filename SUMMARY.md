@@ -45,6 +45,7 @@
   * [Easy](rooms/hackthebox/easy/README.md)
     * [PermX](rooms/hackthebox/easy/permx.md)
     * [Chemistry](rooms/hackthebox/easy/chemistry.md)
+    * [Cicada](rooms/hackthebox/easy/cicada.md)
     * [Boardlight](rooms/hackthebox/easy/boardlight.md)
     * [Headless](rooms/hackthebox/easy/headless.md)
     * [Bizness](rooms/hackthebox/easy/bizness.md)
