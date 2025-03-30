@@ -60,6 +60,7 @@
     * [Cap](rooms/hackthebox/easy/cap.md)
   * [Medium](rooms/hackthebox/medium/README.md)
     * [MonitorsThree](rooms/hackthebox/medium/monitorsthree.md)
+    * [Trickster](rooms/hackthebox/medium/trickster.md)
     * [IClean](rooms/hackthebox/medium/iclean.md)
     * [Builder](rooms/hackthebox/medium/builder.md)
     * [Sandworm](rooms/hackthebox/medium/sandworm.md)
