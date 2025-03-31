@@ -97,7 +97,7 @@
 
 ## Web Security
 
-* [Omoshiroi :)](web-security/omoshiroi.md)
+* [To remember LoG](web-security/to-remember-log.md)
 * [SSTI](web-security/ssti.md)
 * [Eval bypass](web-security/eval-bypass.md)
 
@@ -105,7 +105,7 @@
 
 * [HTTP Headers](http-headers/README.md)
   * [Content Security Policy](http-headers/content-security-policy/README.md)
-    * [Lab - Bypass CSP](http-headers/content-security-policy/lab-bypass-csp.md)
+    * [Bypass Techniques](http-headers/content-security-policy/bypass-techniques.md)
 
 ## Active Directory
 
