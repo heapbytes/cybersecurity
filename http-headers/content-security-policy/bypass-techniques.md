@@ -2,7 +2,11 @@
 
 ## Dom clobbering
 
-DOM Clobbering is a technique where an attacker manipulates the DOM (Document Object Model) to overwrite **global JavaScript variables** or functions by injecting HTML elements with specific id or name attributes. This can lead to security issues, including XSS, bypassing security checks, and unintended script execution.
+DOM Clobbering is a technique where an attacker manipulates the DOM (Document Object Model) to overwrite **global JavaScript variables** or functions by injecting HTML elements with specific id or name attributes. This can lead to security issues, including XSS, bypassing security checks, and unintended script execution.\
+\
+Ref:\
+[https://medium.com/@ibm\_ptc\_security/dom-clobbering-baa55c208bce](https://medium.com/@ibm_ptc_security/dom-clobbering-baa55c208bce)\
+[https://cheatsheetseries.owasp.org/cheatsheets/DOM\_Clobbering\_Prevention\_Cheat\_Sheet.html](https://cheatsheetseries.owasp.org/cheatsheets/DOM_Clobbering_Prevention_Cheat_Sheet.html)
 
 ```php
 <?php
