@@ -97,6 +97,7 @@
 
 ## Web Security
 
+* [File Upload Bypass](web-security/file-upload-bypass.md)
 * [To remember LoG](web-security/to-remember-log.md)
 * [SSTI](web-security/ssti.md)
 * [Eval bypass](web-security/eval-bypass.md)
