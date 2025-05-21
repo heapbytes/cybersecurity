@@ -61,6 +61,7 @@
     * [Shoppy](rooms/hackthebox/easy/shoppy.md)
     * [Cap](rooms/hackthebox/easy/cap.md)
   * [Medium](rooms/hackthebox/medium/README.md)
+    * [Heal](rooms/hackthebox/medium/heal.md)
     * [MonitorsThree](rooms/hackthebox/medium/monitorsthree.md)
     * [Trickster](rooms/hackthebox/medium/trickster.md)
     * [Instant](rooms/hackthebox/medium/instant.md)

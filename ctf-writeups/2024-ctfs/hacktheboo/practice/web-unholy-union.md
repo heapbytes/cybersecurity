@@ -6,7 +6,7 @@ On the outskirts of a forsaken town lies an abandoned warehouse, rumored to stor
 
 ## Homepage
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 The challenge name and the query itself says this can be solved through `SQL Union Injection`
 

@@ -1,6 +1,6 @@
 # Boardlight
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="225"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="225"><figcaption></figcaption></figure>
 
 ## Enumeration
 
@@ -130,7 +130,7 @@ id
 uid=33(www-data) gid=33(www-data) groups=33(www-data)
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 The default config files are under `htdocs/conf/conf.php`
 
