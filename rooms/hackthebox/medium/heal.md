@@ -1,6 +1,6 @@
 # Heal
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -67,12 +67,12 @@ Add `heal.htb`and `api.heal.htb`in /etc/hosts file
 After signing up on the platform, we are redirected to /resume,\
 here we can add our data and click on export
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 You can open `Dev tools`and see the api call made in the backend.\
 **It's vulnerable to LFI**.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 curl 'http://api.heal.htb/download?filename=../../../../../../../../../etc/passwd' \
@@ -100,7 +100,7 @@ You can copy the command as cURL command from dev tools network tab.
 I've played around this a bit, but nothing important files comes with this right now, \
 I moved to another vector.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 If we clicked on survey, it's takes us on another sub-domain. `take-survey.heal.htb`
 
@@ -112,7 +112,7 @@ If we looked into web source of this subdomain, we can clearly see it's using li
 
 Upon googl'ing we can find a RCE vulnerability, (version? yes, i've edited writuep a bit, i'll explain later how I found the version)
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 It requires username and password to work, let's move further.
 
@@ -190,12 +190,12 @@ ralph:$2a$12$dUZ/O7KJT3.zE4TOK8p4RuxH3t.Bz45DSr7A94VLvY9SWx1GCSZnG:<redacted>
 
 We can login as admin (ralph) on `take-survey.heal.htb` , we can see the limesurvey version here on footer of the webpage.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The exploit we found earlier on google can be used here.\
 Running that pops up a shell for us :)
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 First thing we should look is config files, that contains password. I came across these files,
 

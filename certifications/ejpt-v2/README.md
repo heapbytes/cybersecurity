@@ -22,4 +22,4 @@ this section of ejpt is more like a cheatsheet than notes.
 
 ## Certified :))
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -35,6 +35,12 @@
   * [Pico CTF](ctf-writeups/2025-ctfs/pico-ctf/README.md)
     * [3v@l](ctf-writeups/2025-ctfs/pico-ctf/3v-l.md)
     * [WebSockFish](ctf-writeups/2025-ctfs/pico-ctf/websockfish.md)
+  * [Payatu CTF](ctf-writeups/2025-ctfs/payatu-ctf/README.md)
+    * [Infrastructure](ctf-writeups/2025-ctfs/payatu-ctf/infrastructure.md)
+    * [Web](ctf-writeups/2025-ctfs/payatu-ctf/web/README.md)
+      * [Secure Upload](ctf-writeups/2025-ctfs/payatu-ctf/web/secure-upload.md)
+      * [Travel Agency](ctf-writeups/2025-ctfs/payatu-ctf/web/travel-agency.md)
+      * [Blind Trust](ctf-writeups/2025-ctfs/payatu-ctf/web/blind-trust.md)
 
 ## 📦 Rooms
 
